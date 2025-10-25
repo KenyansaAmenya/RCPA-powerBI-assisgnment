@@ -115,6 +115,7 @@ It highlights clear opportunities to grow market share through targeted engageme
 
 ---
 
-**Author:** Felix Amenya Kenyansa  
+**Author:** Felix Amenya Kenyansa
+**Contributors** Rael, Kasyoki, Rana & Muthoni
 **Prepared for:** Power BI RCPA assignment  
 **Date:** 25th October 2025
