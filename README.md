@@ -112,6 +112,9 @@ Achievement % = DIVIDE([Total Rx], [Total Target], 0)
 |-------|----------|---------|
 | Brand (Product_Name) | Medical Rep / Region / Month | Total Rx, Total Target, Achievement % |
 
+<img width="949" height="1117" alt="Doctor Rx Performance" src="https://github.com/user-attachments/assets/898c0a17-7064-4d9a-b03c-e21d80c7da98" />
+
+
 ---
 
 ### 2. **Doctor Conversion Status**
@@ -169,6 +172,8 @@ DISTINCT(
 | Competitor Rx | [Competitor Rx Qty] |
 | Conversion Status | [Doctor Conversion Status] |
 
+<img width="811" height="771" alt="Doctor conversion status" src="https://github.com/user-attachments/assets/80d4a5f9-1af7-4129-912e-6817d4b722c1" />
+
 ---
 
 ### 3. **Brand Competition Analysis**
@@ -217,6 +222,8 @@ Competitor Share % = DIVIDE([Competitor Rx Qty], [Total Rx Qty], 0)
 - **Competitor Share % > Focus Share %** → Target for improvement  
 - Combine with **Brand Targets** to align achievement with regional competition.  
 
+<img width="1313" height="738" alt="Brand Competition per Region" src="https://github.com/user-attachments/assets/1eb1461a-220a-4275-b6f0-8e414b05e6a6" />
+
 ---
 
 ## 🧠 Insights & Takeaways
@@ -232,6 +239,9 @@ Competitor Share % = DIVIDE([Competitor Rx Qty], [Total Rx Qty], 0)
 - **Power Query**  
 - **DAX (Data Analysis Expressions)**  
 - **Excel / CSV Data Sources**
+
+Our Dashboard 
+<img width="1313" height="738" alt="Brand Competition per Region" src="https://github.com/user-attachments/assets/989c3a96-c32b-4cfd-84ef-98874207af51" />
 
 ---
 
