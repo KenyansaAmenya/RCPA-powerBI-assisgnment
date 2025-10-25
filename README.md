@@ -252,7 +252,7 @@ Power BI Developer | Data Analyst
 📍 Kenya  
 
 **Contributors**
-Rael
-Kasyoki
-Rana
-Muthoni
+Rael,
+Kasyoki,
+Rana,
+Muthoni.
