@@ -250,3 +250,9 @@ Our Dashboard
 Power BI Developer | Data Analyst  
 📧 Kenyansafelix"gmail.com  
 📍 Kenya  
+
+**Contributors**
+Rael
+Kasyoki
+Rana
+Muthoni
