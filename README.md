@@ -241,7 +241,7 @@ Competitor Share % = DIVIDE([Competitor Rx Qty], [Total Rx Qty], 0)
 - **Excel / CSV Data Sources**
 
 Our Dashboard 
-<img width="1313" height="738" alt="Brand Competition per Region" src="https://github.com/user-attachments/assets/989c3a96-c32b-4cfd-84ef-98874207af51" />
+<img width="1328" height="747" alt="DashBoard" src="https://github.com/user-attachments/assets/0e47938c-1c58-48ab-ae21-c0c09cd8aa22" />
 
 ---
 
